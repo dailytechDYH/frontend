@@ -1,0 +1,61 @@
+
+	body
+	{
+	}
+
+	body,input,textarea,select
+	{
+		font-size: 11pt;
+	}
+
+
+	#banner
+	{
+		padding: 6em 0em;
+	}
+
+	.homepage #banner
+	{
+		padding: 12em 0em;
+	}
+	
+	#page
+	{
+		padding: 2em 0em 6em 0em;
+	}
+	
+	.homepage #page
+	{
+		padding: 6em 0em;
+	}
+
+	#main
+	{
+
+		padding-top: 2em;
+		border-top: none;
+	}
+	
+	.homepage #main
+	{
+		margin-top: 6em;
+		padding-top: 6em;
+	}
+	
+	#footer
+	{
+		padding: 0em 0em 4em 0em;
+	}
+
+	
+	#featured
+	{
+		padding: 4em 0em;
+	}
+
+	
+	#featured .divider
+	{
+		padding: 2em 0em;
+	}
+	
